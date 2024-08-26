@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="www.linkedin.com/in/melissaaragaoleite" target="_blank">
+<a href=www.linkedin.com/in/melissaaragaoleite target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-%23445584?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
